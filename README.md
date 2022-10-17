@@ -13,6 +13,5 @@ La procédure itérative pour la détermination de la pulsation fondamentale est
 1) Assigner la tolérance ;
 2) Assigner $𝑅 = 1$ ;
 3) Donner une approximation initiale à ${\{𝐴\}}_1$ ;
-4) Déterminer ${\{𝐴\}}_{𝑗+1}$ :
-
-$${\{𝐴\}}_{𝑗+1}={[ \𝐾] \}^{−1}[ \𝑀] \{\{𝐴\}}_𝑗$$
+4) Déterminer ${\{𝐴\}}_{𝑗+1}$ : 
+$${\{𝐴\}}_{𝑗+1}=[K]^{-1}[M]{\{𝐴\}}_{𝑗}$$
